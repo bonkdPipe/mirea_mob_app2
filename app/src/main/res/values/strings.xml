@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">The app of all apps</string>
+    <string name="basic_text1">This is my app, there are many like this, but this one is mine!</string>
+</resources>
